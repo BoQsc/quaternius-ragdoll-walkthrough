@@ -1,7 +1,12 @@
 Result: 
+With humanoid base
 https://github.com/BoQsc/godot-demo-projects/tree/quaternius-ragdoll-walkthrough/3d/ragdoll_physics/characters_quaternius
 
 ![2026-02-15 12-27-24|video](upload://eJnw6lZIejiOkFxPabSOlJlL4Zx.mp4)
+
+With Human base and Idle animation pose enabled. (Humanoid base as donor of PhysicalSkeleton)
+https://github.com/BoQsc/godot-demo-projects/tree/quanternius-ragdoll-walkthrough-human-base/3d/ragdoll_physics/characters_quaternius
+
 ![2026-02-15 15-44-13|video](upload://sBydFdNXjKSS8pwTJBpquEeq1eX.mp4)
 ### Preparation
 Asset (CC0):
